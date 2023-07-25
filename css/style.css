@@ -20,7 +20,7 @@ body {
 .hero {
   height: 100vh;
   background-image: url("../images/front.jpeg");
-  background: #ccc;
+  background-color: #ccc;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
